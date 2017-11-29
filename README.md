@@ -5,7 +5,7 @@ We the People of the United States, in Order to form a more perfect Union, estab
 
 Article. I.
 
-Section. 1.
+Section. 1. (This is setting up The Capital)
 
 All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives.
 
