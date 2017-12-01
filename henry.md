@@ -1,4 +1,11 @@
 # hello-world
+
+RONALD REAGAN
+
+RICHARD "THE TICKLER" NIXON
+
+Palmer "Handy" Hudson
+
 Hello World
 
 We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.
@@ -471,4 +478,3 @@ Given by our hand in the meadow that is called Runnymede, between Windsor and St
 
 
 I AM THE MACHINE
-No, I AM THE MACHINE!!!
